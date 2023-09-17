@@ -1,2 +1,2 @@
 # Weather_app
-A simple weather app impelemented by using openweather API
+A simple weather app implemented by using openweather API
